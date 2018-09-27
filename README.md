@@ -11,7 +11,7 @@ Java open source e-commerce software
 - REST API
 
 See the demo:
--------------------
+-----------------------
 http://demo.shopizer.com:8080
 
 
